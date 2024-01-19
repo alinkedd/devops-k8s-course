@@ -10,3 +10,7 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 ## Week 2
 
 - [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module2-task2-challenge)
+
+## Week 5
+
+- (WIP) [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
