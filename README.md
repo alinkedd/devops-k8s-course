@@ -11,6 +11,10 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 
 - [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module2-task2-challenge)
 
+## Week 3
+
+- [Task with manual check](https://github.com/alinkedd/devops-k8s-course/tree/module3-task-manual-runc-network)
+
 ## Week 5
 
 - (WIP) [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
