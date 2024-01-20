@@ -2,14 +2,27 @@
 
 Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/)
 
-## Prerequisites
+## Module 1 - Task 2
+
+Key points of the task:
+- Repeat «Build, Ship, Run» coding session to create an app, its image and container, and the k3s cluster
+
+### Result
+
+- code works
+- [image at docker hub](https://hub.docker.com/repository/docker/alinkedd/do-k8s-m1-t2/general)
+- local cluster also works
+
+## How to use
+
+### Prerequisites
 
 - Go
 - [Docker](https://docs.docker.com/get-docker/) >= v20.10.5 
 - [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
 - [k3d](https://k3d.io/v5.6.0/) with [k3s](https://github.com/k3s-io/k3s)
 
-## Module 1 - Task 2
+### Commands
 
 Build:
 
