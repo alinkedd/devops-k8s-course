@@ -16,11 +16,9 @@ runc spec
 
 ### Result
 
-TODO: add link here (or gif?)
+[https://asciinema.org/a/632444](https://asciinema.org/a/632444)
 
-***
-
-### Used commands
+## Used commands (distinct local session)
 
 Create demo folder to have files:
 
