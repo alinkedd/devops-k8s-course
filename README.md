@@ -18,7 +18,7 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 ## Week 3
 
 - [Task with manual check](https://github.com/alinkedd/devops-k8s-course/tree/module3-task-manual-runc-network)
-- Task 4 - TODO
+- [Task 4](https://github.com/alinkedd/devops-k8s-course/tree/module3-task4-dive)
 - Task 5 - https://github.com/alinkedd/godabot (makefile + dockerfile)
 
 ## Week 4
