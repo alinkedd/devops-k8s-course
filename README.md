@@ -2,11 +2,25 @@
 
 Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/)
 
-## Week 1
+## Week 3 - Task 4
 
-- [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module1-task1-script)
-- [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module1-task2-build-ship-run)
+Key points of the task:
+- Use dive utility to optimize image
 
-## Week 2
+### Result
 
-- [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module2-task2-challenge)
+https://asciinema.org/a/632450
+
+## Used commands
+
+Check image:
+
+```sh
+dive <image_name>
+```
+
+Optimize image at 0.9 level:
+
+```sh
+dive --ci --lowestEfficiency=0.9 <image_name>
+```
