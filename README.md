@@ -10,16 +10,4 @@ Key points of the task:
 
 ### Result
 
-TODO
-
-|NAME|PROMPT|DESCRIPTION|EXAMPLE|
-|----|------|-----------|-------|
-|app.yaml|TODO|TODO|[example](./yaml/app.yaml)|
-|app-livenessProbe.yaml|TODO|TODO|[example](./yaml/app-livenessProbe.yaml)|
-|app-readinessProbe.yaml|TODO|TODO|[example](./yaml/app-readinessProbe.yaml)|
-|app-volumeMounts.yaml|TODO|TODO|[example](./yaml/app-volumeMounts.yaml)|
-|app-cronjob.yaml|TODO|TODO|[example](./yaml/app-cronjob.yaml)|
-|app-job.yaml|TODO|TODO|[example](./yaml/app-job.yaml)|
-|app-multicontainer.yaml|TODO|TODO|[example](./yaml/app-multicontainer.yaml)|
-|app-resources.yaml|TODO|TODO|[example](./yaml/app-resources.yaml)|
-|app-secret-env.yaml|TODO|TODO|[example](./yaml/app-secret-env.yaml)|
+TODO add link to infra repository
