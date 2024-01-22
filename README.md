@@ -23,6 +23,10 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 
 ## Week 4
 
+- Task 4 - https://github.com/alinkedd/AsciiArtify (doc/Concept.md)
+- Task 5 - https://github.com/alinkedd/AsciiArtify (doc/POC.md)
+- Task with manual check - https://github.com/alinkedd/AsciiArtify (doc/MVP.md)
+
 ## Week 5
 
 - (WIP) [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
