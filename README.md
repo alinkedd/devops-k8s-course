@@ -6,7 +6,16 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 
 ### Prerequisites
 
-TODO: run cluster and check
+- initial cluster with `kube-system` namespace (e.g. minikube)
+- metrics-server:
+```sh
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+```
+or
+```sh
+minikube addons enable metrics-server
+```
+- wait a little to have results
 
 ### How to use 'kubeplugin'
 
