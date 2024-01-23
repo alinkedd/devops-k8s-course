@@ -10,4 +10,12 @@ Key points of the task:
 
 ### Result
 
-TODO add link to infra repository
+https://github.com/alinkedd/godabot-infra/commit/7bff0046604b23997ea12ca33a3cf1191a0cd9f1
+
+## Used commands
+
+To generate `yml` file:
+
+```sh
+kubectl ai "generate basic pod yml file" --raw > ./yaml/app.yaml && code ./yaml/app.yaml
+```
