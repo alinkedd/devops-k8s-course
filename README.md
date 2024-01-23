@@ -29,7 +29,11 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 
 ## Week 5
 
-- (WIP) [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
+- [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
+- Task with manual check - TODO
+- [Task 3](https://github.com/alinkedd/devops-k8s-course/tree/module5-task3-yml-prompts)
+- Task 4 - TODO
+- Task 5 - TODO
 
 ## Week 6
 
