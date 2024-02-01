@@ -2,7 +2,7 @@
 
 Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/)
 
-## Week 5 - Task 1
+## Module 5 - Task 1
 
 ### Prerequisites
 
