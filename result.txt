@@ -1,0 +1,1 @@
+helm template new-version ./helm -s templates/secret.yaml -s templates/app-configmap.yaml -s templates/api-svc.yaml -s templates/api-deploy.yaml --set image.tag=build-802e329 --set api.header=qa --set api.canary=100 | kubectl apply -f -
