@@ -2,7 +2,7 @@
 
 Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/)
 
-## Week 3 - Task with manual check
+## Module 3 - Task with manual check
 
 Key points of the task:
 
