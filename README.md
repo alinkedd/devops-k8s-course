@@ -32,7 +32,7 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 - [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
 - Task with manual check - https://stats.uptimerobot.com/9wwl4HRPZG (gcloud cluster, emulate blue/green and canary deployment)
 - [Task 3](https://github.com/alinkedd/devops-k8s-course/tree/module5-task3-yml-prompts)
-- Task 4 - TODO addd result to the branch
+- [Task 4](https://github.com/alinkedd/devops-k8s-course/tree/module5-task4-debug-helm-command)
 - Task 5 - https://github.com/alinkedd/godabot/releases/download/v0.0.8/godabot-0.0.8.tgz (helm release)
 
 ## Week 6
