@@ -11,7 +11,7 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 
 - Task 1 - https://github.com/alinkedd
 - [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module2-task2-challenge)
-- Task 3 - TODO add result to the branch
+- [Task 3](https://github.com/alinkedd/devops-k8s-course/tree/module2-task3-git-cherry-pick)
 - Task 4 - https://raw.githubusercontent.com/alinkedd/alinkedd/main/README.md
 - Task 5 - https://github.com/alinkedd/godabot (create bot - coding session)
 
