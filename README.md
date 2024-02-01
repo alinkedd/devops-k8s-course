@@ -2,12 +2,12 @@
 
 Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/)
 
-## Week 1
+## Module 1 - SDLC & DevOps
 
 - [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module1-task1-script)
 - [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module1-task2-build-ship-run)
 
-## Week 2
+## Module 2 - VCS
 
 - Task 1 - https://github.com/alinkedd
 - [Task 2](https://github.com/alinkedd/devops-k8s-course/tree/module2-task2-challenge)
@@ -15,19 +15,19 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 - Task 4 - https://raw.githubusercontent.com/alinkedd/alinkedd/main/README.md
 - Task 5 - https://github.com/alinkedd/godabot (create bot - coding session)
 
-## Week 3
+## Module 3 - Containerization
 
 - [Task with manual check](https://github.com/alinkedd/devops-k8s-course/tree/module3-task-manual-runc-network)
 - [Task 4](https://github.com/alinkedd/devops-k8s-course/tree/module3-task4-dive)
 - Task 5 - https://github.com/alinkedd/godabot (makefile + dockerfile)
 
-## Week 4
+## Module 4 - k8s basics
 
 - Task 4 - https://github.com/alinkedd/AsciiArtify (doc/Concept.md)
 - Task 5 - https://github.com/alinkedd/AsciiArtify (doc/POC.md)
 - Task with manual check - https://github.com/alinkedd/AsciiArtify (doc/MVP.md)
 
-## Week 5
+## Module 5 - k8s in action
 
 - [Task 1](https://github.com/alinkedd/devops-k8s-course/tree/module5-task1-kubeplugin)
 - Task with manual check - https://stats.uptimerobot.com/9wwl4HRPZG (gcloud cluster, emulate blue/green and canary deployment)
@@ -35,10 +35,10 @@ Coding tasks and practices for the [course](https://prometheus.org.ua/prometheus
 - [Task 4](https://github.com/alinkedd/devops-k8s-course/tree/module5-task4-debug-helm-command)
 - Task 5 - https://github.com/alinkedd/godabot/releases/download/v0.0.8/godabot-0.0.8.tgz (helm release)
 
-## Week 6
+## Module 6 - GitOps
 
-## Week 7
+## Module 7 - Infrastructure
 
-## Week 8
+## Module 8 - DevSecOps
 
-## Week 9
+## Module 9 - Monitoring
